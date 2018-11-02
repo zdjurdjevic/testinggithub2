@@ -1,4 +1,2 @@
-print('hello!')
-print('u')
-lallalalakkkk
-
+print('hello')
+iris
